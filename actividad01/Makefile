@@ -1,6 +1,6 @@
 #############################################################################################
 #	* FECHA: 12/11/2025 
-#	* AUTOR:  SAMUEL ADRIAN MONTAÑA LINARES
+#	* AUTORES: ÁNGEL DANIEL GARCÍA SANTANA, SAMUEL ADRIAN MONTAÑA LINARES, MATEO GUERRA, ELIER IBARRA
 #	* MATERIA: SISTEMAS OPERATIVOS - PONTIFICIA UNIVERSIDAD JAVERIANA
 #	* DOCENTE: JOHN JAIRO CORREDOR FRANCO
 #	* TEMA: Automatización de compilación para Actividad 1
